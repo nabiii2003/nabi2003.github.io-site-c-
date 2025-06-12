@@ -1570,9 +1570,7 @@ SP
     }
     .sec10 .arrow {
         position: absolute; 
-        display: inline-block;
         width: 10px;
-        height: 10px;
         right: 45px;
     }
     .sec10 .arrow::before {
