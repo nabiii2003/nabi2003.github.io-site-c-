@@ -1577,6 +1577,7 @@ SP
     }
     .sec10 .arrow::before {
         content: '';
+        display: block;
         position: absolute; 
         top: 20;
         left:0;
@@ -1589,6 +1590,7 @@ SP
     }
     .sec10 .arrow::after {
         content: '';
+        display: block;
         position: absolute; 
         top: 20;
         left:0;
