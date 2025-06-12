@@ -1089,6 +1089,8 @@ question
     width: 20px;
     height: 20px;
     right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .question .arrow::before {
     content: '';
@@ -1726,6 +1728,7 @@ SP
     }
     .question dt {
         font-size: 16px;
+        line-height: 1.5;
     }
     .answer-inner {
         font-size: 14px;
