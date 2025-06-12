@@ -1574,6 +1574,7 @@ SP
         width: 10px;
         height: 10px;
         right: 45px;
+        cursor: pointer;
     }
     .sec10 .arrow::before {
         content: '';
