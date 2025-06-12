@@ -1594,7 +1594,7 @@ SP
         content: '';
         display: block;
         position: absolute; 
-        top: 20;
+        top: 50%;
         left:0;
         width: 5px;
         height: 5px;
