@@ -1054,9 +1054,6 @@ question
     padding: 60px 0 40px 0;
     text-align: center;
 }
-/*.question dl {
-    position: relative;
-}*/
 .question dt {
     position: relative;
     border: solid 1.5px #E5E5E5;
@@ -1065,6 +1062,7 @@ question
     font-weight: bold;
     padding: 22px;
     margin-bottom: 5px;
+    line-height: 1.5;
 }
 .question .is-active {
     display: block;
